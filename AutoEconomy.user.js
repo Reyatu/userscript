@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name	AutoEconomy
-// @include	http://www.nicovideo.jp/watch/*
-// @version	1.0.1
+// @include	http://www.nicovideo.jp/watch/sm*
+// @version	1.0.2
 // @grant	none
 // ==/UserScript==
 
